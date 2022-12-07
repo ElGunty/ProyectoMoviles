@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">私のアジェンダ</string>
+    <string name="nombreAgenda">私のアジェンダ</string>
+    <string name="btnAceptar">セーブ</string>
+    <string name="btnCancelar">クリア</string>
+</resources>

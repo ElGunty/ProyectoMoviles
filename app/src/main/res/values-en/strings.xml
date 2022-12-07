@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Log</string>
+    <string name="nombreAgenda">My Agenda</string>
+    <string name="btnAceptar">Save</string>
+    <string name="btnCancelar">Clear</string>
+</resources>
